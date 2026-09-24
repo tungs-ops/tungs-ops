@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Saya Andrew Justino Bolla</h1>
-<h3 align="center">Seorang Mahasiswa yang Bersemangat Mempelajari Teknologi Baru 🚀</h3>
+<h3 align="center"> Mahasiswa Institut Teknologi Nasianal Malang </h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Mahasiswa+Teknologi;Fullstack+Developer+Enthusiast;Selalu+Terbuka+Untuk+Kolaborasi" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 * 🌱 Saat ini sedang fokus mengeksplorasi **[Sebutkan teknologi spesifik, misal: React, Python, atau Machine Learning]**.
 * 💡 Selalu tertarik untuk berkolaborasi dalam proyek eksplorasi, *open-source*, atau *hackathon*.
 * 💬 Tanya saya tentang apa saja, saya senang berdiskusi terkait teknologi!
-* 📫 Cara menghubungi saya: **[Masukkan Email Kamu]**
+* 📫 Cara menghubungi saya: **andrewbolla21@gmail.com**
 
 ---
 
